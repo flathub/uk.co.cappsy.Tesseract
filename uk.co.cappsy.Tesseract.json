@@ -36,7 +36,7 @@
         {
           "type": "git",
           "url": "https://github.com/cappsyco/tesseract.git",
-          "tag": "v0.1.1"
+          "tag": "v0.1.2"
         },
         "./cargo-sources.json"
       ]
